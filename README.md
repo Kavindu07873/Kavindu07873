@@ -21,11 +21,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 [![GitHub followers](https://img.shields.io/github/followers/Kavindu07873.svg?style=social&label=Follow)](https://github.com/Kavindu07873?tab=followers)
 
-- 👨‍🎓 I’m  **Undergraduation Student**
+- 👨‍🎓 I’m  **undergraduate student**
 
 - 🌱
 
 - 👨‍💻 I'm a Student at **Institute of Software Engineering**
 
 - 💬 Ask me about **Java , Html , CSS**
++ 💬 You Can See All My Project In This Profile
 <br>
